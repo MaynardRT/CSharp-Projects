@@ -7,7 +7,7 @@ namespace Coding.Exercise
         public static int DoubleValue(int number)
         {
             // TODO: Implement the method to double the value
-            return number + number;
+            return number * 2;
         }
 
         public static void Main(string[] args)
